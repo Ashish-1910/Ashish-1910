@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Ashish-1910/Ashish-1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-```typescript
+typescript
 const ashish = {
     name: "Ashish",
     username: "Ashish-1910", 
@@ -42,7 +42,7 @@ const ashish = {
     askMeAbout: ["JavaScript", "Python", "React", "Node.js", "AI/ML"],
     reachMe: "Always open to interesting conversations!"
 };
-```
+
 
 ---
 
@@ -211,28 +211,22 @@ I'm a passionate **[Your Profession/Specialization]** with expertise in **[Your 
 
 ## 📈 **Professional Journey**
 
-```mermaid
+mermaid
 timeline
     title My Professional Timeline
-    
     2019 : Started Programming Journey
          : First "Hello World" 👋
-    
     2020 : Frontend Development
          : React & JavaScript mastery
-    
     2021 : Backend Development
          : Node.js & Database integration
-    
     2022 : Full Stack Projects
          : Complete web applications
-    
     2023 : DevOps & Cloud
          : AWS & Docker deployment
-    
     2024 : Open Source Contributions
          : Building amazing projects 🚀
-```
+
 
 ---
 
