@@ -13,7 +13,7 @@
 * 🌱 I’m currently learning and building projects with C, C++, Python, and Java.
 * 💡 I'm passionate about problem-solving and algorithms.
 * 👯 I’m looking to collaborate on simple projects to practice my skills.
-* 📫 How to reach me: `[Add your email or LinkedIn here]`
+* 📫 How to reach me: `yaarbelli653@gmail.com`
 
 ---
 
